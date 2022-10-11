@@ -1,0 +1,17 @@
+25 XP
+-----
+*****
+Question 1
+True/False. C# is a special-purpose language optimized for making web applications.
+
+Answer 1
+False. C# is a general-purpose programming language for creating multitude of applications such as games, desktop applications, web applications, mobile apps, etc
+
+*****
+Question 2
+Whatis the name of the frmaework that C# runs on?
+
+Answer 2
+The framework is called .NET (pronounced dotnet). 
+.NET is an ecosystem that include many useful tools such as runtime, BCL (Base Class Library), SDK (Software Development Kit) and many others to help build application for web, mobile and desktop applications. 
+.NET also helps developers to write code in C# and run in other languages such as Visual Basic, F# and PowerShell.

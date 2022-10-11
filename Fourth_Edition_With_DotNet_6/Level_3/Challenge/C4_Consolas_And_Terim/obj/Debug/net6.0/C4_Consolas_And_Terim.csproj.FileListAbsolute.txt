@@ -1,0 +1,15 @@
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_3\Challenge\C4_Consolas_And_Terim\bin\Debug\net6.0\C4_Consolas_And_Terim.exe
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_3\Challenge\C4_Consolas_And_Terim\bin\Debug\net6.0\C4_Consolas_And_Terim.deps.json
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_3\Challenge\C4_Consolas_And_Terim\bin\Debug\net6.0\C4_Consolas_And_Terim.runtimeconfig.json
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_3\Challenge\C4_Consolas_And_Terim\bin\Debug\net6.0\C4_Consolas_And_Terim.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_3\Challenge\C4_Consolas_And_Terim\bin\Debug\net6.0\C4_Consolas_And_Terim.pdb
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_3\Challenge\C4_Consolas_And_Terim\obj\Debug\net6.0\C4_Consolas_And_Terim.csproj.AssemblyReference.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_3\Challenge\C4_Consolas_And_Terim\obj\Debug\net6.0\C4_Consolas_And_Terim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_3\Challenge\C4_Consolas_And_Terim\obj\Debug\net6.0\C4_Consolas_And_Terim.AssemblyInfoInputs.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_3\Challenge\C4_Consolas_And_Terim\obj\Debug\net6.0\C4_Consolas_And_Terim.AssemblyInfo.cs
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_3\Challenge\C4_Consolas_And_Terim\obj\Debug\net6.0\C4_Consolas_And_Terim.csproj.CoreCompileInputs.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_3\Challenge\C4_Consolas_And_Terim\obj\Debug\net6.0\C4_Consolas_And_Terim.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_3\Challenge\C4_Consolas_And_Terim\obj\Debug\net6.0\refint\C4_Consolas_And_Terim.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_3\Challenge\C4_Consolas_And_Terim\obj\Debug\net6.0\C4_Consolas_And_Terim.pdb
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_3\Challenge\C4_Consolas_And_Terim\obj\Debug\net6.0\C4_Consolas_And_Terim.genruntimeconfig.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_3\Challenge\C4_Consolas_And_Terim\obj\Debug\net6.0\ref\C4_Consolas_And_Terim.dll

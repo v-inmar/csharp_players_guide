@@ -1,0 +1,32 @@
+25 XP
+-----
+*****
+Question 1
+Name the three things all variables have
+
+Answer 1
+	1) Type
+	2) Name
+	3) Value
+
+*****
+Question 2
+True/False. Variable must always be declared before being used
+
+Answer 2
+True. A variable must be first declared before used
+
+*****
+Question 3
+Can you redeclare a variable?
+
+Answer 3
+No. Variables can only be declared once but can be reused as long as the value is of the same type
+
+*****
+Question 4
+Which of the following are legal C# variable names? answer, 1stValue, value1, $message, delete-me, delete_me, PI
+
+Answer 4
+answer, value1, delete_me, PI
+These are the legal C# variables names from the list in the question above

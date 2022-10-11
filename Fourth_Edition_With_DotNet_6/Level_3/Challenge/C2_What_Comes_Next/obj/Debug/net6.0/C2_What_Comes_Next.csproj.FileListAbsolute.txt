@@ -1,0 +1,15 @@
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_3\Challenge\C2_What_Comes_Next\bin\Debug\net6.0\C2_What_Comes_Next.exe
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_3\Challenge\C2_What_Comes_Next\bin\Debug\net6.0\C2_What_Comes_Next.deps.json
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_3\Challenge\C2_What_Comes_Next\bin\Debug\net6.0\C2_What_Comes_Next.runtimeconfig.json
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_3\Challenge\C2_What_Comes_Next\bin\Debug\net6.0\C2_What_Comes_Next.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_3\Challenge\C2_What_Comes_Next\bin\Debug\net6.0\C2_What_Comes_Next.pdb
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_3\Challenge\C2_What_Comes_Next\obj\Debug\net6.0\C2_What_Comes_Next.csproj.AssemblyReference.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_3\Challenge\C2_What_Comes_Next\obj\Debug\net6.0\C2_What_Comes_Next.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_3\Challenge\C2_What_Comes_Next\obj\Debug\net6.0\C2_What_Comes_Next.AssemblyInfoInputs.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_3\Challenge\C2_What_Comes_Next\obj\Debug\net6.0\C2_What_Comes_Next.AssemblyInfo.cs
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_3\Challenge\C2_What_Comes_Next\obj\Debug\net6.0\C2_What_Comes_Next.csproj.CoreCompileInputs.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_3\Challenge\C2_What_Comes_Next\obj\Debug\net6.0\C2_What_Comes_Next.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_3\Challenge\C2_What_Comes_Next\obj\Debug\net6.0\refint\C2_What_Comes_Next.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_3\Challenge\C2_What_Comes_Next\obj\Debug\net6.0\C2_What_Comes_Next.pdb
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_3\Challenge\C2_What_Comes_Next\obj\Debug\net6.0\C2_What_Comes_Next.genruntimeconfig.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_3\Challenge\C2_What_Comes_Next\obj\Debug\net6.0\ref\C2_What_Comes_Next.dll

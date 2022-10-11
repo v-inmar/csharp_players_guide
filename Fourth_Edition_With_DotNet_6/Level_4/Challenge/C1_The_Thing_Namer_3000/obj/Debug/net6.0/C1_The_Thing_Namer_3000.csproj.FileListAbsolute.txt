@@ -1,0 +1,15 @@
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_4\Challenge\C1_The_Thing_Namer_3000\bin\Debug\net6.0\C1_The_Thing_Namer_3000.exe
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_4\Challenge\C1_The_Thing_Namer_3000\bin\Debug\net6.0\C1_The_Thing_Namer_3000.deps.json
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_4\Challenge\C1_The_Thing_Namer_3000\bin\Debug\net6.0\C1_The_Thing_Namer_3000.runtimeconfig.json
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_4\Challenge\C1_The_Thing_Namer_3000\bin\Debug\net6.0\C1_The_Thing_Namer_3000.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_4\Challenge\C1_The_Thing_Namer_3000\bin\Debug\net6.0\C1_The_Thing_Namer_3000.pdb
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_4\Challenge\C1_The_Thing_Namer_3000\obj\Debug\net6.0\C1_The_Thing_Namer_3000.csproj.AssemblyReference.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_4\Challenge\C1_The_Thing_Namer_3000\obj\Debug\net6.0\C1_The_Thing_Namer_3000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_4\Challenge\C1_The_Thing_Namer_3000\obj\Debug\net6.0\C1_The_Thing_Namer_3000.AssemblyInfoInputs.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_4\Challenge\C1_The_Thing_Namer_3000\obj\Debug\net6.0\C1_The_Thing_Namer_3000.AssemblyInfo.cs
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_4\Challenge\C1_The_Thing_Namer_3000\obj\Debug\net6.0\C1_The_Thing_Namer_3000.csproj.CoreCompileInputs.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_4\Challenge\C1_The_Thing_Namer_3000\obj\Debug\net6.0\C1_The_Thing_Namer_3000.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_4\Challenge\C1_The_Thing_Namer_3000\obj\Debug\net6.0\refint\C1_The_Thing_Namer_3000.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_4\Challenge\C1_The_Thing_Namer_3000\obj\Debug\net6.0\C1_The_Thing_Namer_3000.pdb
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_4\Challenge\C1_The_Thing_Namer_3000\obj\Debug\net6.0\C1_The_Thing_Namer_3000.genruntimeconfig.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_4\Challenge\C1_The_Thing_Namer_3000\obj\Debug\net6.0\ref\C1_The_Thing_Namer_3000.dll

@@ -1,0 +1,4 @@
+75 XP
+-----
+
+Install Visual Studio (as of this moment, it is 2022 Community Edition)

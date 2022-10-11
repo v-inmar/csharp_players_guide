@@ -1,0 +1,15 @@
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_3\Challenge\C1_Hello_World\bin\Debug\net6.0\C1_Hello_World.exe
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_3\Challenge\C1_Hello_World\bin\Debug\net6.0\C1_Hello_World.deps.json
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_3\Challenge\C1_Hello_World\bin\Debug\net6.0\C1_Hello_World.runtimeconfig.json
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_3\Challenge\C1_Hello_World\bin\Debug\net6.0\C1_Hello_World.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_3\Challenge\C1_Hello_World\bin\Debug\net6.0\C1_Hello_World.pdb
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_3\Challenge\C1_Hello_World\obj\Debug\net6.0\C1_Hello_World.csproj.AssemblyReference.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_3\Challenge\C1_Hello_World\obj\Debug\net6.0\C1_Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_3\Challenge\C1_Hello_World\obj\Debug\net6.0\C1_Hello_World.AssemblyInfoInputs.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_3\Challenge\C1_Hello_World\obj\Debug\net6.0\C1_Hello_World.AssemblyInfo.cs
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_3\Challenge\C1_Hello_World\obj\Debug\net6.0\C1_Hello_World.csproj.CoreCompileInputs.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_3\Challenge\C1_Hello_World\obj\Debug\net6.0\C1_Hello_World.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_3\Challenge\C1_Hello_World\obj\Debug\net6.0\refint\C1_Hello_World.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_3\Challenge\C1_Hello_World\obj\Debug\net6.0\C1_Hello_World.pdb
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_3\Challenge\C1_Hello_World\obj\Debug\net6.0\C1_Hello_World.genruntimeconfig.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_3\Challenge\C1_Hello_World\obj\Debug\net6.0\ref\C1_Hello_World.dll

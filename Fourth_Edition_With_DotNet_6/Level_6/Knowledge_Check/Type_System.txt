@@ -1,0 +1,67 @@
+25 XP
+-----
+********************
+Question 1
+True/False. The int type can store any possible integer.
+
+Answer 1
+False. The int type can only store integers between -2_147_483_648 to 2_147_483_647
+
+********************
+Question 2
+Order the following by how large their range is, from smallest to largest: short, long, int byte
+
+Answer 2
+1st)	byte	(from 0 to 255)
+2nd)	short	(from -32,768 to 32,767)
+3rd)	int	(from -2,147,483,648 to 2,147,483,647)
+4th)	long	(from -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807)
+
+********************
+Question 3
+True/False. The byte type is signed.
+
+Answer 3
+False. The type byte is not signed. For signed byte, use sbyte which the s stands for 'signed'
+
+********************
+Question 4
+Which can store higher numbers, int or uint?
+
+Answer 4
+uint can store higher numbers. its highest number can be roughly doubled of the ones from int
+
+********************
+Question 5
+What three type can store floating-point numbers?
+
+Answer 5
+The three type thatcan store floating-point numbers are float, double and decimal
+
+********************
+Question 6
+Which of the options in Question 5 can hold the largest number?
+
+Answer 6
+double can hold the largest number.
+
+********************
+Question 7
+Which of the options in Question 5 is the most precise?
+
+Answer 7
+decimal is the most precise type
+
+********************
+Question 8
+What type does the literal value "8" (including the quotes) have?
+ 
+Answer 8
+"8" is a string type. Since it is not using single quotes which indicates char.
+
+********************
+Question 9
+What type stores true or false values?
+
+Answer 9
+A bool type

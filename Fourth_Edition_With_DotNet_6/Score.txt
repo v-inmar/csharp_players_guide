@@ -13,5 +13,9 @@ Level		Category		Title				XP
 4		Challenge		The Thing Namer 3000		100
 ===========================================================================
 5		Knowledge Check		Variables			25
+===========================================================================
+6		Challenge		The Variable Shop		100
+6		Challenge		The Variable Shop Returns	50
+6		Knwoledge Check		Type System			25
 ---------------------------------------------------------------------------
-Total									425	
+Total									600	

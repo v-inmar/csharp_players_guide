@@ -1,0 +1,15 @@
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_6\Challenge\C1_The_Variable_Shop\obj\Debug\net6.0\C1_The_Variable_Shop.csproj.AssemblyReference.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_6\Challenge\C1_The_Variable_Shop\obj\Debug\net6.0\C1_The_Variable_Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_6\Challenge\C1_The_Variable_Shop\obj\Debug\net6.0\C1_The_Variable_Shop.AssemblyInfoInputs.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_6\Challenge\C1_The_Variable_Shop\obj\Debug\net6.0\C1_The_Variable_Shop.AssemblyInfo.cs
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_6\Challenge\C1_The_Variable_Shop\obj\Debug\net6.0\C1_The_Variable_Shop.csproj.CoreCompileInputs.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_6\Challenge\C1_The_Variable_Shop\bin\Debug\net6.0\C1_The_Variable_Shop.exe
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_6\Challenge\C1_The_Variable_Shop\bin\Debug\net6.0\C1_The_Variable_Shop.deps.json
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_6\Challenge\C1_The_Variable_Shop\bin\Debug\net6.0\C1_The_Variable_Shop.runtimeconfig.json
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_6\Challenge\C1_The_Variable_Shop\bin\Debug\net6.0\C1_The_Variable_Shop.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_6\Challenge\C1_The_Variable_Shop\bin\Debug\net6.0\C1_The_Variable_Shop.pdb
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_6\Challenge\C1_The_Variable_Shop\obj\Debug\net6.0\C1_The_Variable_Shop.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_6\Challenge\C1_The_Variable_Shop\obj\Debug\net6.0\refint\C1_The_Variable_Shop.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_6\Challenge\C1_The_Variable_Shop\obj\Debug\net6.0\C1_The_Variable_Shop.pdb
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_6\Challenge\C1_The_Variable_Shop\obj\Debug\net6.0\C1_The_Variable_Shop.genruntimeconfig.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_6\Challenge\C1_The_Variable_Shop\obj\Debug\net6.0\ref\C1_The_Variable_Shop.dll

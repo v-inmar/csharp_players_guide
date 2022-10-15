@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "C2_The_Variable_Shop_Returns/1.0.0": {
+        "runtime": {
+          "C2_The_Variable_Shop_Returns.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C2_The_Variable_Shop_Returns/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "C3_The_Dominion_Of_Kings/1.0.0": {
+        "runtime": {
+          "C3_The_Dominion_Of_Kings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C3_The_Dominion_Of_Kings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

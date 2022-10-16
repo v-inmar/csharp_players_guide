@@ -1,0 +1,15 @@
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_7\Challenge\C3_The_Dominion_Of_Kings\obj\Debug\net6.0\C3_The_Dominion_Of_Kings.csproj.AssemblyReference.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_7\Challenge\C3_The_Dominion_Of_Kings\obj\Debug\net6.0\C3_The_Dominion_Of_Kings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_7\Challenge\C3_The_Dominion_Of_Kings\obj\Debug\net6.0\C3_The_Dominion_Of_Kings.AssemblyInfoInputs.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_7\Challenge\C3_The_Dominion_Of_Kings\obj\Debug\net6.0\C3_The_Dominion_Of_Kings.AssemblyInfo.cs
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_7\Challenge\C3_The_Dominion_Of_Kings\obj\Debug\net6.0\C3_The_Dominion_Of_Kings.csproj.CoreCompileInputs.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_7\Challenge\C3_The_Dominion_Of_Kings\bin\Debug\net6.0\C3_The_Dominion_Of_Kings.exe
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_7\Challenge\C3_The_Dominion_Of_Kings\bin\Debug\net6.0\C3_The_Dominion_Of_Kings.deps.json
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_7\Challenge\C3_The_Dominion_Of_Kings\bin\Debug\net6.0\C3_The_Dominion_Of_Kings.runtimeconfig.json
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_7\Challenge\C3_The_Dominion_Of_Kings\bin\Debug\net6.0\C3_The_Dominion_Of_Kings.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_7\Challenge\C3_The_Dominion_Of_Kings\bin\Debug\net6.0\C3_The_Dominion_Of_Kings.pdb
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_7\Challenge\C3_The_Dominion_Of_Kings\obj\Debug\net6.0\C3_The_Dominion_Of_Kings.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_7\Challenge\C3_The_Dominion_Of_Kings\obj\Debug\net6.0\refint\C3_The_Dominion_Of_Kings.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_7\Challenge\C3_The_Dominion_Of_Kings\obj\Debug\net6.0\C3_The_Dominion_Of_Kings.pdb
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_7\Challenge\C3_The_Dominion_Of_Kings\obj\Debug\net6.0\C3_The_Dominion_Of_Kings.genruntimeconfig.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_7\Challenge\C3_The_Dominion_Of_Kings\obj\Debug\net6.0\ref\C3_The_Dominion_Of_Kings.dll

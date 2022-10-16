@@ -1,21 +1,25 @@
-Level		Category		Title				XP
----------------------------------------------------------------------------
-===========================================================================
-1		Knowledge Check		C#				25
-===========================================================================
-2		Challenge		Install Visual Studio		75
-===========================================================================
-3		Challenge		Hello World			50
-3		Challenge		What Comes Next			50
-3		Challenge		The Makings of a Programmer	50
-3		Challenge		Consolas and Telim		50
-===========================================================================
-4		Challenge		The Thing Namer 3000		100
-===========================================================================
-5		Knowledge Check		Variables			25
-===========================================================================
-6		Challenge		The Variable Shop		100
-6		Challenge		The Variable Shop Returns	50
-6		Knwoledge Check		Type System			25
----------------------------------------------------------------------------
-Total									600	
+Level		Category		Title					XP
+----------------------------------------------------------------------------------
+==================================================================================
+1		Knowledge Check		C#					25
+==================================================================================
+2		Challenge		Install Visual Studio			75
+==================================================================================
+3		Challenge		Hello World				50
+3		Challenge		What Comes Next				50
+3		Challenge		The Makings of a Programmer		50
+3		Challenge		Consolas and Telim			50
+===================================================================================
+4		Challenge		The Thing Namer 3000			100
+===================================================================================
+5		Knowledge Check		Variables				25
+===================================================================================
+6		Challenge		The Variable Shop			100
+6		Challenge		The Variable Shop Returns		50
+6		Knwoledge Check		Type System				25
+===================================================================================
+7		Challenge		The Triangle Farmer			100
+7		Challenge		The Four Sisters and the Duckber	100
+7		Challenge		The Dominion of Kings			100
+-----------------------------------------------------------------------------------
+Total										900	

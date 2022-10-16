@@ -1,0 +1,15 @@
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_7\Challenge\C1_The_Triangle_Farmer\obj\Debug\net6.0\C1_The_Triangle_Farmer.csproj.AssemblyReference.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_7\Challenge\C1_The_Triangle_Farmer\obj\Debug\net6.0\C1_The_Triangle_Farmer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_7\Challenge\C1_The_Triangle_Farmer\obj\Debug\net6.0\C1_The_Triangle_Farmer.AssemblyInfoInputs.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_7\Challenge\C1_The_Triangle_Farmer\obj\Debug\net6.0\C1_The_Triangle_Farmer.AssemblyInfo.cs
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_7\Challenge\C1_The_Triangle_Farmer\obj\Debug\net6.0\C1_The_Triangle_Farmer.csproj.CoreCompileInputs.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_7\Challenge\C1_The_Triangle_Farmer\bin\Debug\net6.0\C1_The_Triangle_Farmer.exe
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_7\Challenge\C1_The_Triangle_Farmer\bin\Debug\net6.0\C1_The_Triangle_Farmer.deps.json
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_7\Challenge\C1_The_Triangle_Farmer\bin\Debug\net6.0\C1_The_Triangle_Farmer.runtimeconfig.json
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_7\Challenge\C1_The_Triangle_Farmer\bin\Debug\net6.0\C1_The_Triangle_Farmer.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_7\Challenge\C1_The_Triangle_Farmer\bin\Debug\net6.0\C1_The_Triangle_Farmer.pdb
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_7\Challenge\C1_The_Triangle_Farmer\obj\Debug\net6.0\C1_The_Triangle_Farmer.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_7\Challenge\C1_The_Triangle_Farmer\obj\Debug\net6.0\refint\C1_The_Triangle_Farmer.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_7\Challenge\C1_The_Triangle_Farmer\obj\Debug\net6.0\C1_The_Triangle_Farmer.pdb
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_7\Challenge\C1_The_Triangle_Farmer\obj\Debug\net6.0\C1_The_Triangle_Farmer.genruntimeconfig.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_7\Challenge\C1_The_Triangle_Farmer\obj\Debug\net6.0\ref\C1_The_Triangle_Farmer.dll

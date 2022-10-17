@@ -21,5 +21,7 @@ Level		Category		Title					XP
 7		Challenge		The Triangle Farmer			100
 7		Challenge		The Four Sisters and the Duckber	100
 7		Challenge		The Dominion of Kings			100
+===================================================================================
+8		Challenge		The Defense of Consolas			200
 -----------------------------------------------------------------------------------
-Total										900	
+Total										1100	

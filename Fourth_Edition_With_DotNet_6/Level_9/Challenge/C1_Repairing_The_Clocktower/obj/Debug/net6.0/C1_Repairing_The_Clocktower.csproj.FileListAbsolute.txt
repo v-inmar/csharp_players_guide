@@ -1,0 +1,15 @@
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_9\Challenge\C1_Repairing_The_Clocktower\bin\Debug\net6.0\C1_Repairing_The_Clocktower.exe
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_9\Challenge\C1_Repairing_The_Clocktower\bin\Debug\net6.0\C1_Repairing_The_Clocktower.deps.json
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_9\Challenge\C1_Repairing_The_Clocktower\bin\Debug\net6.0\C1_Repairing_The_Clocktower.runtimeconfig.json
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_9\Challenge\C1_Repairing_The_Clocktower\bin\Debug\net6.0\C1_Repairing_The_Clocktower.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_9\Challenge\C1_Repairing_The_Clocktower\bin\Debug\net6.0\C1_Repairing_The_Clocktower.pdb
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_9\Challenge\C1_Repairing_The_Clocktower\obj\Debug\net6.0\C1_Repairing_The_Clocktower.csproj.AssemblyReference.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_9\Challenge\C1_Repairing_The_Clocktower\obj\Debug\net6.0\C1_Repairing_The_Clocktower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_9\Challenge\C1_Repairing_The_Clocktower\obj\Debug\net6.0\C1_Repairing_The_Clocktower.AssemblyInfoInputs.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_9\Challenge\C1_Repairing_The_Clocktower\obj\Debug\net6.0\C1_Repairing_The_Clocktower.AssemblyInfo.cs
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_9\Challenge\C1_Repairing_The_Clocktower\obj\Debug\net6.0\C1_Repairing_The_Clocktower.csproj.CoreCompileInputs.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_9\Challenge\C1_Repairing_The_Clocktower\obj\Debug\net6.0\C1_Repairing_The_Clocktower.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_9\Challenge\C1_Repairing_The_Clocktower\obj\Debug\net6.0\refint\C1_Repairing_The_Clocktower.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_9\Challenge\C1_Repairing_The_Clocktower\obj\Debug\net6.0\C1_Repairing_The_Clocktower.pdb
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_9\Challenge\C1_Repairing_The_Clocktower\obj\Debug\net6.0\C1_Repairing_The_Clocktower.genruntimeconfig.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_9\Challenge\C1_Repairing_The_Clocktower\obj\Debug\net6.0\ref\C1_Repairing_The_Clocktower.dll

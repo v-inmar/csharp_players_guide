@@ -23,5 +23,8 @@ Level		Category		Title					XP
 7		Challenge		The Dominion of Kings			100
 ===================================================================================
 8		Challenge		The Defense of Consolas			200
+===================================================================================
+9		Challenge		Repairing the Clocktower		100
+9		Challenge		Watchtower				100
 -----------------------------------------------------------------------------------
-Total										1100	
+Total										1300	

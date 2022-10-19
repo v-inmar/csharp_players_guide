@@ -26,5 +26,8 @@ Level		Category		Title					XP
 ===================================================================================
 9		Challenge		Repairing the Clocktower		100
 9		Challenge		Watchtower				100
+===================================================================================
+10		Challenge		Buying Inventory			100
+10		Challenge		Discounted Inventory			50
 -----------------------------------------------------------------------------------
-Total										1300	
+Total										1450	

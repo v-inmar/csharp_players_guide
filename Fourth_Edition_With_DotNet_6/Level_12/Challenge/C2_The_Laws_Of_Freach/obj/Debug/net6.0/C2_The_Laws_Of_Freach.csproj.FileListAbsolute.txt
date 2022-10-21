@@ -1,0 +1,15 @@
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_12\Challenge\C2_The_Laws_Of_Freach\bin\Debug\net6.0\C2_The_Laws_Of_Freach.exe
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_12\Challenge\C2_The_Laws_Of_Freach\bin\Debug\net6.0\C2_The_Laws_Of_Freach.deps.json
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_12\Challenge\C2_The_Laws_Of_Freach\bin\Debug\net6.0\C2_The_Laws_Of_Freach.runtimeconfig.json
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_12\Challenge\C2_The_Laws_Of_Freach\bin\Debug\net6.0\C2_The_Laws_Of_Freach.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_12\Challenge\C2_The_Laws_Of_Freach\bin\Debug\net6.0\C2_The_Laws_Of_Freach.pdb
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_12\Challenge\C2_The_Laws_Of_Freach\obj\Debug\net6.0\C2_The_Laws_Of_Freach.csproj.AssemblyReference.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_12\Challenge\C2_The_Laws_Of_Freach\obj\Debug\net6.0\C2_The_Laws_Of_Freach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_12\Challenge\C2_The_Laws_Of_Freach\obj\Debug\net6.0\C2_The_Laws_Of_Freach.AssemblyInfoInputs.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_12\Challenge\C2_The_Laws_Of_Freach\obj\Debug\net6.0\C2_The_Laws_Of_Freach.AssemblyInfo.cs
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_12\Challenge\C2_The_Laws_Of_Freach\obj\Debug\net6.0\C2_The_Laws_Of_Freach.csproj.CoreCompileInputs.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_12\Challenge\C2_The_Laws_Of_Freach\obj\Debug\net6.0\C2_The_Laws_Of_Freach.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_12\Challenge\C2_The_Laws_Of_Freach\obj\Debug\net6.0\refint\C2_The_Laws_Of_Freach.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_12\Challenge\C2_The_Laws_Of_Freach\obj\Debug\net6.0\C2_The_Laws_Of_Freach.pdb
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_12\Challenge\C2_The_Laws_Of_Freach\obj\Debug\net6.0\C2_The_Laws_Of_Freach.genruntimeconfig.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_12\Challenge\C2_The_Laws_Of_Freach\obj\Debug\net6.0\ref\C2_The_Laws_Of_Freach.dll

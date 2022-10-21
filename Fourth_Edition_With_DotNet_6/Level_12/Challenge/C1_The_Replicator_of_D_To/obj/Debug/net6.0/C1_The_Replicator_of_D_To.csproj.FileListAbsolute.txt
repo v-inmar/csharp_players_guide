@@ -1,0 +1,15 @@
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_12\Challenge\C1_The_Replicator_of_D_To\bin\Debug\net6.0\C1_The_Replicator_of_D_To.exe
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_12\Challenge\C1_The_Replicator_of_D_To\bin\Debug\net6.0\C1_The_Replicator_of_D_To.deps.json
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_12\Challenge\C1_The_Replicator_of_D_To\bin\Debug\net6.0\C1_The_Replicator_of_D_To.runtimeconfig.json
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_12\Challenge\C1_The_Replicator_of_D_To\bin\Debug\net6.0\C1_The_Replicator_of_D_To.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_12\Challenge\C1_The_Replicator_of_D_To\bin\Debug\net6.0\C1_The_Replicator_of_D_To.pdb
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_12\Challenge\C1_The_Replicator_of_D_To\obj\Debug\net6.0\C1_The_Replicator_of_D_To.csproj.AssemblyReference.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_12\Challenge\C1_The_Replicator_of_D_To\obj\Debug\net6.0\C1_The_Replicator_of_D_To.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_12\Challenge\C1_The_Replicator_of_D_To\obj\Debug\net6.0\C1_The_Replicator_of_D_To.AssemblyInfoInputs.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_12\Challenge\C1_The_Replicator_of_D_To\obj\Debug\net6.0\C1_The_Replicator_of_D_To.AssemblyInfo.cs
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_12\Challenge\C1_The_Replicator_of_D_To\obj\Debug\net6.0\C1_The_Replicator_of_D_To.csproj.CoreCompileInputs.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_12\Challenge\C1_The_Replicator_of_D_To\obj\Debug\net6.0\C1_The_Replicator_of_D_To.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_12\Challenge\C1_The_Replicator_of_D_To\obj\Debug\net6.0\refint\C1_The_Replicator_of_D_To.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_12\Challenge\C1_The_Replicator_of_D_To\obj\Debug\net6.0\C1_The_Replicator_of_D_To.pdb
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_12\Challenge\C1_The_Replicator_of_D_To\obj\Debug\net6.0\C1_The_Replicator_of_D_To.genruntimeconfig.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_12\Challenge\C1_The_Replicator_of_D_To\obj\Debug\net6.0\ref\C1_The_Replicator_of_D_To.dll

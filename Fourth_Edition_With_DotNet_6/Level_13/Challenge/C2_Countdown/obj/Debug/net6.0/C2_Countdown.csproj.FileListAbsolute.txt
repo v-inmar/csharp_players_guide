@@ -1,0 +1,15 @@
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_13\Challenge\C2_Countdown\bin\Debug\net6.0\C2_Countdown.exe
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_13\Challenge\C2_Countdown\bin\Debug\net6.0\C2_Countdown.deps.json
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_13\Challenge\C2_Countdown\bin\Debug\net6.0\C2_Countdown.runtimeconfig.json
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_13\Challenge\C2_Countdown\bin\Debug\net6.0\C2_Countdown.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_13\Challenge\C2_Countdown\bin\Debug\net6.0\C2_Countdown.pdb
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_13\Challenge\C2_Countdown\obj\Debug\net6.0\C2_Countdown.csproj.AssemblyReference.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_13\Challenge\C2_Countdown\obj\Debug\net6.0\C2_Countdown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_13\Challenge\C2_Countdown\obj\Debug\net6.0\C2_Countdown.AssemblyInfoInputs.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_13\Challenge\C2_Countdown\obj\Debug\net6.0\C2_Countdown.AssemblyInfo.cs
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_13\Challenge\C2_Countdown\obj\Debug\net6.0\C2_Countdown.csproj.CoreCompileInputs.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_13\Challenge\C2_Countdown\obj\Debug\net6.0\C2_Countdown.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_13\Challenge\C2_Countdown\obj\Debug\net6.0\refint\C2_Countdown.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_13\Challenge\C2_Countdown\obj\Debug\net6.0\C2_Countdown.pdb
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_13\Challenge\C2_Countdown\obj\Debug\net6.0\C2_Countdown.genruntimeconfig.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_13\Challenge\C2_Countdown\obj\Debug\net6.0\ref\C2_Countdown.dll

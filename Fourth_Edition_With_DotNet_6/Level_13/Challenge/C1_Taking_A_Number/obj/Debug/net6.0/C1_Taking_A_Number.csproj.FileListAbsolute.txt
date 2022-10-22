@@ -1,0 +1,15 @@
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_13\Challenge\C1_Taking_A_Number\bin\Debug\net6.0\C1_Taking_A_Number.exe
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_13\Challenge\C1_Taking_A_Number\bin\Debug\net6.0\C1_Taking_A_Number.deps.json
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_13\Challenge\C1_Taking_A_Number\bin\Debug\net6.0\C1_Taking_A_Number.runtimeconfig.json
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_13\Challenge\C1_Taking_A_Number\bin\Debug\net6.0\C1_Taking_A_Number.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_13\Challenge\C1_Taking_A_Number\bin\Debug\net6.0\C1_Taking_A_Number.pdb
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_13\Challenge\C1_Taking_A_Number\obj\Debug\net6.0\C1_Taking_A_Number.csproj.AssemblyReference.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_13\Challenge\C1_Taking_A_Number\obj\Debug\net6.0\C1_Taking_A_Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_13\Challenge\C1_Taking_A_Number\obj\Debug\net6.0\C1_Taking_A_Number.AssemblyInfoInputs.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_13\Challenge\C1_Taking_A_Number\obj\Debug\net6.0\C1_Taking_A_Number.AssemblyInfo.cs
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_13\Challenge\C1_Taking_A_Number\obj\Debug\net6.0\C1_Taking_A_Number.csproj.CoreCompileInputs.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_13\Challenge\C1_Taking_A_Number\obj\Debug\net6.0\C1_Taking_A_Number.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_13\Challenge\C1_Taking_A_Number\obj\Debug\net6.0\refint\C1_Taking_A_Number.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_13\Challenge\C1_Taking_A_Number\obj\Debug\net6.0\C1_Taking_A_Number.pdb
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_13\Challenge\C1_Taking_A_Number\obj\Debug\net6.0\C1_Taking_A_Number.genruntimeconfig.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_13\Challenge\C1_Taking_A_Number\obj\Debug\net6.0\ref\C1_Taking_A_Number.dll

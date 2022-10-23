@@ -1,0 +1,15 @@
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_14\Boss_Battle\BB1_Hunting_The_Manticore\bin\Debug\net6.0\BB1_Hunting_The_Manticore.exe
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_14\Boss_Battle\BB1_Hunting_The_Manticore\bin\Debug\net6.0\BB1_Hunting_The_Manticore.deps.json
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_14\Boss_Battle\BB1_Hunting_The_Manticore\bin\Debug\net6.0\BB1_Hunting_The_Manticore.runtimeconfig.json
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_14\Boss_Battle\BB1_Hunting_The_Manticore\bin\Debug\net6.0\BB1_Hunting_The_Manticore.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_14\Boss_Battle\BB1_Hunting_The_Manticore\bin\Debug\net6.0\BB1_Hunting_The_Manticore.pdb
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_14\Boss_Battle\BB1_Hunting_The_Manticore\obj\Debug\net6.0\BB1_Hunting_The_Manticore.csproj.AssemblyReference.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_14\Boss_Battle\BB1_Hunting_The_Manticore\obj\Debug\net6.0\BB1_Hunting_The_Manticore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_14\Boss_Battle\BB1_Hunting_The_Manticore\obj\Debug\net6.0\BB1_Hunting_The_Manticore.AssemblyInfoInputs.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_14\Boss_Battle\BB1_Hunting_The_Manticore\obj\Debug\net6.0\BB1_Hunting_The_Manticore.AssemblyInfo.cs
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_14\Boss_Battle\BB1_Hunting_The_Manticore\obj\Debug\net6.0\BB1_Hunting_The_Manticore.csproj.CoreCompileInputs.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_14\Boss_Battle\BB1_Hunting_The_Manticore\obj\Debug\net6.0\BB1_Hunting_The_Manticore.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_14\Boss_Battle\BB1_Hunting_The_Manticore\obj\Debug\net6.0\refint\BB1_Hunting_The_Manticore.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_14\Boss_Battle\BB1_Hunting_The_Manticore\obj\Debug\net6.0\BB1_Hunting_The_Manticore.pdb
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_14\Boss_Battle\BB1_Hunting_The_Manticore\obj\Debug\net6.0\BB1_Hunting_The_Manticore.genruntimeconfig.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_14\Boss_Battle\BB1_Hunting_The_Manticore\obj\Debug\net6.0\ref\BB1_Hunting_The_Manticore.dll

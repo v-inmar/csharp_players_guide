@@ -16,7 +16,9 @@ namespace BB1_Hunting_The_Manticore
             int manticoreDistance = GetUserInput("Manticore distance (0-100): ");
             int cannonRange;
             Console.Clear();
+            
             // Infinite loop
+            // This can be inside another function
             while (true)
             {
                 Console.WriteLine("----------------------------------------");
@@ -79,7 +81,9 @@ namespace BB1_Hunting_The_Manticore
         /// <param name="damage">The current damage</param>
         static void DisplayCannonDamage(int damage)
         {
+            
             Console.WriteLine($"The cannon is expected to deal {damage} damage this round");
+            Console.ResetColor();
         }
 
         /// <summary>
@@ -93,20 +97,56 @@ namespace BB1_Hunting_The_Manticore
             return Convert.ToInt32(Console.ReadLine());
         }
 
+
+
         /// <summary>
-        /// Gets the damage depending on the round number
+        /// Checks if round is multiple of three
         /// </summary>
-        /// <param name="round">Round number</param>
-        /// <returns>32Bit integer</returns>
+        /// <param name="round">The current value integer of round</param>
+        /// <returns>Boolean</returns>
+        static bool IsMultipleOfThree(int round)
+        {
+            if(round % 3 == 0)
+            {
+                return true;
+            }
+            return false;
+        }
+
+        /// <summary>
+        /// Checks if round is multiple of five
+        /// </summary>
+        /// <param name="round">The current value integer of round</param>
+        /// <returns>Boolean</returns>
+        static bool IsMultipleOfFive(int round)
+        {
+            if (round % 5 == 0)
+            {
+                return true;
+            }
+            return false;
+        }
+
+
+
+        /// <summary>
+        /// Determines the damage and colour of the text depending on the round number
+        /// </summary>
+        /// <param name="round">The current integer value for the round</param>
+        /// <returns>32bit Integer</returns>
         static int GetDamage(int round)
         {
-            if(round % 3 == 0 && round % 5 == 0)
-            {
+            Console.ResetColor();
+            if(IsMultipleOfFive(round) && IsMultipleOfThree(round)){
+                Console.ForegroundColor = ConsoleColor.Blue;
                 return 10;
-            }
-
-            if((round % 3 == 0 && round % 5 != 0) || (round % 3 != 0 && round % 5 == 0))
+            }else if (IsMultipleOfThree(round))
             {
+                Console.ForegroundColor = ConsoleColor.Red;
+                return 3;
+            }else if (IsMultipleOfFive(round))
+            {
+                Console.ForegroundColor = ConsoleColor.Yellow;
                 return 3;
             }
             else

@@ -1,0 +1,14 @@
+25 XP
+----------
+Question 1
+What two things does an object bundle together?
+
+Answer 1
+The two things an object bundles together are the data or state and the operations or actions that deals with the data/state
+
+----------
+Question 2
+True/False. C# lets you define new types of objects
+
+Answer 2
+True. C# allows you to define or create new types of objects

@@ -1,0 +1,15 @@
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_17\Challenge\C1_Simulas_Soup\bin\Debug\net6.0\C1_Simulas_Soup.exe
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_17\Challenge\C1_Simulas_Soup\bin\Debug\net6.0\C1_Simulas_Soup.deps.json
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_17\Challenge\C1_Simulas_Soup\bin\Debug\net6.0\C1_Simulas_Soup.runtimeconfig.json
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_17\Challenge\C1_Simulas_Soup\bin\Debug\net6.0\C1_Simulas_Soup.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_17\Challenge\C1_Simulas_Soup\bin\Debug\net6.0\C1_Simulas_Soup.pdb
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_17\Challenge\C1_Simulas_Soup\obj\Debug\net6.0\C1_Simulas_Soup.csproj.AssemblyReference.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_17\Challenge\C1_Simulas_Soup\obj\Debug\net6.0\C1_Simulas_Soup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_17\Challenge\C1_Simulas_Soup\obj\Debug\net6.0\C1_Simulas_Soup.AssemblyInfoInputs.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_17\Challenge\C1_Simulas_Soup\obj\Debug\net6.0\C1_Simulas_Soup.AssemblyInfo.cs
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_17\Challenge\C1_Simulas_Soup\obj\Debug\net6.0\C1_Simulas_Soup.csproj.CoreCompileInputs.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_17\Challenge\C1_Simulas_Soup\obj\Debug\net6.0\C1_Simulas_Soup.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_17\Challenge\C1_Simulas_Soup\obj\Debug\net6.0\refint\C1_Simulas_Soup.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_17\Challenge\C1_Simulas_Soup\obj\Debug\net6.0\C1_Simulas_Soup.pdb
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_17\Challenge\C1_Simulas_Soup\obj\Debug\net6.0\C1_Simulas_Soup.genruntimeconfig.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_17\Challenge\C1_Simulas_Soup\obj\Debug\net6.0\ref\C1_Simulas_Soup.dll

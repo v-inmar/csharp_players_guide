@@ -1,0 +1,15 @@
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_16\Challenge\C1_Simulas_Test\bin\Debug\net6.0\C1_Simulas_Test.exe
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_16\Challenge\C1_Simulas_Test\bin\Debug\net6.0\C1_Simulas_Test.deps.json
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_16\Challenge\C1_Simulas_Test\bin\Debug\net6.0\C1_Simulas_Test.runtimeconfig.json
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_16\Challenge\C1_Simulas_Test\bin\Debug\net6.0\C1_Simulas_Test.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_16\Challenge\C1_Simulas_Test\bin\Debug\net6.0\C1_Simulas_Test.pdb
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_16\Challenge\C1_Simulas_Test\obj\Debug\net6.0\C1_Simulas_Test.csproj.AssemblyReference.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_16\Challenge\C1_Simulas_Test\obj\Debug\net6.0\C1_Simulas_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_16\Challenge\C1_Simulas_Test\obj\Debug\net6.0\C1_Simulas_Test.AssemblyInfoInputs.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_16\Challenge\C1_Simulas_Test\obj\Debug\net6.0\C1_Simulas_Test.AssemblyInfo.cs
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_16\Challenge\C1_Simulas_Test\obj\Debug\net6.0\C1_Simulas_Test.csproj.CoreCompileInputs.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_16\Challenge\C1_Simulas_Test\obj\Debug\net6.0\C1_Simulas_Test.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_16\Challenge\C1_Simulas_Test\obj\Debug\net6.0\refint\C1_Simulas_Test.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_16\Challenge\C1_Simulas_Test\obj\Debug\net6.0\C1_Simulas_Test.pdb
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_16\Challenge\C1_Simulas_Test\obj\Debug\net6.0\C1_Simulas_Test.genruntimeconfig.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_16\Challenge\C1_Simulas_Test\obj\Debug\net6.0\ref\C1_Simulas_Test.dll

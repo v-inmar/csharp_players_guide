@@ -1,0 +1,15 @@
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_18\Challenge\C1_Vin_Fletchers_Arrows\bin\Debug\net6.0\C1_Vin_Fletchers_Arrows.exe
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_18\Challenge\C1_Vin_Fletchers_Arrows\bin\Debug\net6.0\C1_Vin_Fletchers_Arrows.deps.json
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_18\Challenge\C1_Vin_Fletchers_Arrows\bin\Debug\net6.0\C1_Vin_Fletchers_Arrows.runtimeconfig.json
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_18\Challenge\C1_Vin_Fletchers_Arrows\bin\Debug\net6.0\C1_Vin_Fletchers_Arrows.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_18\Challenge\C1_Vin_Fletchers_Arrows\bin\Debug\net6.0\C1_Vin_Fletchers_Arrows.pdb
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_18\Challenge\C1_Vin_Fletchers_Arrows\obj\Debug\net6.0\C1_Vin_Fletchers_Arrows.csproj.AssemblyReference.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_18\Challenge\C1_Vin_Fletchers_Arrows\obj\Debug\net6.0\C1_Vin_Fletchers_Arrows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_18\Challenge\C1_Vin_Fletchers_Arrows\obj\Debug\net6.0\C1_Vin_Fletchers_Arrows.AssemblyInfoInputs.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_18\Challenge\C1_Vin_Fletchers_Arrows\obj\Debug\net6.0\C1_Vin_Fletchers_Arrows.AssemblyInfo.cs
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_18\Challenge\C1_Vin_Fletchers_Arrows\obj\Debug\net6.0\C1_Vin_Fletchers_Arrows.csproj.CoreCompileInputs.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_18\Challenge\C1_Vin_Fletchers_Arrows\obj\Debug\net6.0\C1_Vin_Fletchers_Arrows.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_18\Challenge\C1_Vin_Fletchers_Arrows\obj\Debug\net6.0\refint\C1_Vin_Fletchers_Arrows.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_18\Challenge\C1_Vin_Fletchers_Arrows\obj\Debug\net6.0\C1_Vin_Fletchers_Arrows.pdb
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_18\Challenge\C1_Vin_Fletchers_Arrows\obj\Debug\net6.0\C1_Vin_Fletchers_Arrows.genruntimeconfig.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_18\Challenge\C1_Vin_Fletchers_Arrows\obj\Debug\net6.0\ref\C1_Vin_Fletchers_Arrows.dll

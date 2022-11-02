@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "C1_Vins_Trouble/1.0.0": {
+        "runtime": {
+          "C1_Vins_Trouble.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C1_Vins_Trouble/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

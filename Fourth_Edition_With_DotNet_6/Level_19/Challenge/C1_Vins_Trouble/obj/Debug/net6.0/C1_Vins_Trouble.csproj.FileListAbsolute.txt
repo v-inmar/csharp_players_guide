@@ -1,0 +1,15 @@
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_19\Challenge\C1_Vins_Trouble\bin\Debug\net6.0\C1_Vins_Trouble.exe
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_19\Challenge\C1_Vins_Trouble\bin\Debug\net6.0\C1_Vins_Trouble.deps.json
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_19\Challenge\C1_Vins_Trouble\bin\Debug\net6.0\C1_Vins_Trouble.runtimeconfig.json
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_19\Challenge\C1_Vins_Trouble\bin\Debug\net6.0\C1_Vins_Trouble.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_19\Challenge\C1_Vins_Trouble\bin\Debug\net6.0\C1_Vins_Trouble.pdb
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_19\Challenge\C1_Vins_Trouble\obj\Debug\net6.0\C1_Vins_Trouble.csproj.AssemblyReference.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_19\Challenge\C1_Vins_Trouble\obj\Debug\net6.0\C1_Vins_Trouble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_19\Challenge\C1_Vins_Trouble\obj\Debug\net6.0\C1_Vins_Trouble.AssemblyInfoInputs.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_19\Challenge\C1_Vins_Trouble\obj\Debug\net6.0\C1_Vins_Trouble.AssemblyInfo.cs
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_19\Challenge\C1_Vins_Trouble\obj\Debug\net6.0\C1_Vins_Trouble.csproj.CoreCompileInputs.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_19\Challenge\C1_Vins_Trouble\obj\Debug\net6.0\C1_Vins_Trouble.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_19\Challenge\C1_Vins_Trouble\obj\Debug\net6.0\refint\C1_Vins_Trouble.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_19\Challenge\C1_Vins_Trouble\obj\Debug\net6.0\C1_Vins_Trouble.pdb
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_19\Challenge\C1_Vins_Trouble\obj\Debug\net6.0\C1_Vins_Trouble.genruntimeconfig.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_19\Challenge\C1_Vins_Trouble\obj\Debug\net6.0\ref\C1_Vins_Trouble.dll

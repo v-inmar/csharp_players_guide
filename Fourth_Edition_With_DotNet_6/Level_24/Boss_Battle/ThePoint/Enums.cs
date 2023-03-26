@@ -10,5 +10,7 @@ namespace ThePoint
     {
         public enum CardColor { Red, Green, Blue, Yellow};
         public enum CardRank { One=1, Two, Three, Four, Five, Six, Seven, Eight, Nine, Ten, Dollar, Percent, Caret, Ampersand};
+
+        public enum DoorState { Locked, Open, Closed };
     }
 }

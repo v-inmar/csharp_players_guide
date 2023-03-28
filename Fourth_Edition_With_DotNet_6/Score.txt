@@ -69,5 +69,7 @@ Level		Category		Title					XP
 24		Boss Battle		15-Puzzle				150
 24		Boss Battle		Hangman					150
 24		Boss Battle		Tic-Tac-Toe				300
+===================================================================================
+25		Challenge		Packing Inventory			150
 -----------------------------------------------------------------------------------
-Total										4075	
+Total										4225	

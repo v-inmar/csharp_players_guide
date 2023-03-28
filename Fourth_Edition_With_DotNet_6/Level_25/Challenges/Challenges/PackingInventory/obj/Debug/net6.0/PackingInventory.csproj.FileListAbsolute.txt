@@ -1,0 +1,15 @@
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_25\Challenges\Challenges\PackingInventory\bin\Debug\net6.0\PackingInventory.exe
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_25\Challenges\Challenges\PackingInventory\bin\Debug\net6.0\PackingInventory.deps.json
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_25\Challenges\Challenges\PackingInventory\bin\Debug\net6.0\PackingInventory.runtimeconfig.json
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_25\Challenges\Challenges\PackingInventory\bin\Debug\net6.0\PackingInventory.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_25\Challenges\Challenges\PackingInventory\bin\Debug\net6.0\PackingInventory.pdb
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_25\Challenges\Challenges\PackingInventory\obj\Debug\net6.0\PackingInventory.csproj.AssemblyReference.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_25\Challenges\Challenges\PackingInventory\obj\Debug\net6.0\PackingInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_25\Challenges\Challenges\PackingInventory\obj\Debug\net6.0\PackingInventory.AssemblyInfoInputs.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_25\Challenges\Challenges\PackingInventory\obj\Debug\net6.0\PackingInventory.AssemblyInfo.cs
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_25\Challenges\Challenges\PackingInventory\obj\Debug\net6.0\PackingInventory.csproj.CoreCompileInputs.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_25\Challenges\Challenges\PackingInventory\obj\Debug\net6.0\PackingInventory.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_25\Challenges\Challenges\PackingInventory\obj\Debug\net6.0\refint\PackingInventory.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_25\Challenges\Challenges\PackingInventory\obj\Debug\net6.0\PackingInventory.pdb
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_25\Challenges\Challenges\PackingInventory\obj\Debug\net6.0\PackingInventory.genruntimeconfig.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_25\Challenges\Challenges\PackingInventory\obj\Debug\net6.0\ref\PackingInventory.dll

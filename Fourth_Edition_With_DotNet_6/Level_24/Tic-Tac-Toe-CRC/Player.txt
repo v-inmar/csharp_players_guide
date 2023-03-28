@@ -1,0 +1,4 @@
+Player
+
+ - Knows the information about the Player		|
+ - Knows the chosen symbol				|

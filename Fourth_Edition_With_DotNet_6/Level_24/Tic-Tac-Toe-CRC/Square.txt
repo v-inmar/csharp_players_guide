@@ -1,0 +1,4 @@
+Square
+
+ - Knows the position of the Square within the board			|
+ - Knows the current value						|

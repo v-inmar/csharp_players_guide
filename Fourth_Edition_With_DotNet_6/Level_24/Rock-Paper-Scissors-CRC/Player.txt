@@ -1,0 +1,3 @@
+Player
+
+ - Picks and Knows a choice between Rock, Paper or Scissors		| 

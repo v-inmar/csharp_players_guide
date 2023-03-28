@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThePoint", "ThePoint\ThePoint.csproj", "{12F69538-6314-451C-AFBB-5EF4F0310C36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThePoint", "ThePoint\ThePoint.csproj", "{12F69538-6314-451C-AFBB-5EF4F0310C36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToe", "TicTacToe\TicTacToe.csproj", "{AC7D0555-34E1-4EDF-8467-DCBE1C341A43}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{12F69538-6314-451C-AFBB-5EF4F0310C36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12F69538-6314-451C-AFBB-5EF4F0310C36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12F69538-6314-451C-AFBB-5EF4F0310C36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC7D0555-34E1-4EDF-8467-DCBE1C341A43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC7D0555-34E1-4EDF-8467-DCBE1C341A43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC7D0555-34E1-4EDF-8467-DCBE1C341A43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC7D0555-34E1-4EDF-8467-DCBE1C341A43}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,3 @@
+Player
+
+ - Knows the information about the player i.e. Name		|

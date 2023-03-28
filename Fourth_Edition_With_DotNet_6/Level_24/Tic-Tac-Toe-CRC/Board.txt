@@ -1,0 +1,9 @@
+Board
+
+ - Knows which player is currently needs to make a move				| Player
+ - Knows the size of the board							|
+ - Knows the arrangement of the Squares						| Square
+ - Determines whether a square is already filled				| Square
+ - Knows whether the game is done and if a player won or its draw		| Player, Square
+ - Asks player to choose a position to fill					| Player, Square
+ - Knows which player has to make next move					| Player

@@ -1,0 +1,5 @@
+Game
+
+ - Knows that a board exist		| Board
+ - Knows that a player exist		| Player
+ - Displays state of the board		| Board

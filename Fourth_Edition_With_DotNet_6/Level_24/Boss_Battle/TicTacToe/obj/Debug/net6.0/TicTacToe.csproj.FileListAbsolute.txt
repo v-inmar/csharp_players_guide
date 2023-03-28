@@ -1,0 +1,15 @@
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_24\Boss_Battle\TicTacToe\bin\Debug\net6.0\TicTacToe.exe
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_24\Boss_Battle\TicTacToe\bin\Debug\net6.0\TicTacToe.deps.json
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_24\Boss_Battle\TicTacToe\bin\Debug\net6.0\TicTacToe.runtimeconfig.json
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_24\Boss_Battle\TicTacToe\bin\Debug\net6.0\TicTacToe.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_24\Boss_Battle\TicTacToe\bin\Debug\net6.0\TicTacToe.pdb
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_24\Boss_Battle\TicTacToe\obj\Debug\net6.0\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_24\Boss_Battle\TicTacToe\obj\Debug\net6.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_24\Boss_Battle\TicTacToe\obj\Debug\net6.0\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_24\Boss_Battle\TicTacToe\obj\Debug\net6.0\TicTacToe.AssemblyInfo.cs
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_24\Boss_Battle\TicTacToe\obj\Debug\net6.0\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_24\Boss_Battle\TicTacToe\obj\Debug\net6.0\TicTacToe.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_24\Boss_Battle\TicTacToe\obj\Debug\net6.0\refint\TicTacToe.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_24\Boss_Battle\TicTacToe\obj\Debug\net6.0\TicTacToe.pdb
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_24\Boss_Battle\TicTacToe\obj\Debug\net6.0\TicTacToe.genruntimeconfig.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_24\Boss_Battle\TicTacToe\obj\Debug\net6.0\ref\TicTacToe.dll

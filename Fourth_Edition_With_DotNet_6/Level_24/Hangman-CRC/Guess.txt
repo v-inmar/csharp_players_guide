@@ -1,0 +1,5 @@
+Guess
+
+ - Knows the letters that already been picked			|
+ - Knows the number of moves remaining				|
+ - Can compare the guessed letters against the hidden word	| HiddenWord

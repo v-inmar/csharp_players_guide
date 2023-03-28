@@ -1,0 +1,4 @@
+Tile
+
+ - Knows its current number		|
+ - Knows its current position		|

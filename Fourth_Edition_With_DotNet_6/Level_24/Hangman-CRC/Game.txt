@@ -1,0 +1,6 @@
+Game
+
+ - Generate a random word				| File or Array of words
+ - Asks the player for player information		| Player
+ - Display information about Guesses			| Guess
+ - Determines whether the game is over			| Guess

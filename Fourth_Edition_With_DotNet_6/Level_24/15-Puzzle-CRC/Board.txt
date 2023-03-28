@@ -1,0 +1,7 @@
+Board
+
+ - Knows the tiles exists			| Tile
+ - Knows the position of the tiles		| Tile
+ - Knows how many moves has been done		|
+ - Knows the board has been solved		|
+ - Can generate random position for the tiles	|

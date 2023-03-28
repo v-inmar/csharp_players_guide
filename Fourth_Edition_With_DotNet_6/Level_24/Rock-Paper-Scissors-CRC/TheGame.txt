@@ -1,0 +1,4 @@
+The Game
+
+ - Knows Players exists and the number of players it needs				| Player
+ - Decides who wins between the Players							|

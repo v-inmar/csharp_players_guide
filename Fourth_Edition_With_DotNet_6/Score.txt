@@ -57,5 +57,17 @@ Level		Category		Title					XP
 21		Challenge		Arrow Factories				100
 ===================================================================================
 22		N/A			N/A					N/A
+===================================================================================
+23		N/A			N/A					N/A
+===================================================================================
+24		Boss Battle		The Point				75
+24		Boss Battle		The Color				100
+24		Boss Battle		The Card				100
+24		Boss Battle		The Locked Door				100
+24		Boss Battle		The Password Validator			100
+24		Boss Battle		Rock-Paper-Scissors			150
+24		Boss Battle		15-Puzzle				150
+24		Boss Battle		Hangman					150
+24		Boss Battle		Tic-Tac-Toe				300
 -----------------------------------------------------------------------------------
-Total										2850	
+Total										4075	

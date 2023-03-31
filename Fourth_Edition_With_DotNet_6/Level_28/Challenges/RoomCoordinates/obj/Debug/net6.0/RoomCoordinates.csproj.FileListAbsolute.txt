@@ -1,0 +1,15 @@
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_28\Challenges\RoomCoordinates\bin\Debug\net6.0\RoomCoordinates.exe
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_28\Challenges\RoomCoordinates\bin\Debug\net6.0\RoomCoordinates.deps.json
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_28\Challenges\RoomCoordinates\bin\Debug\net6.0\RoomCoordinates.runtimeconfig.json
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_28\Challenges\RoomCoordinates\bin\Debug\net6.0\RoomCoordinates.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_28\Challenges\RoomCoordinates\bin\Debug\net6.0\RoomCoordinates.pdb
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_28\Challenges\RoomCoordinates\obj\Debug\net6.0\RoomCoordinates.csproj.AssemblyReference.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_28\Challenges\RoomCoordinates\obj\Debug\net6.0\RoomCoordinates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_28\Challenges\RoomCoordinates\obj\Debug\net6.0\RoomCoordinates.AssemblyInfoInputs.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_28\Challenges\RoomCoordinates\obj\Debug\net6.0\RoomCoordinates.AssemblyInfo.cs
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_28\Challenges\RoomCoordinates\obj\Debug\net6.0\RoomCoordinates.csproj.CoreCompileInputs.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_28\Challenges\RoomCoordinates\obj\Debug\net6.0\RoomCoordinates.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_28\Challenges\RoomCoordinates\obj\Debug\net6.0\refint\RoomCoordinates.dll
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_28\Challenges\RoomCoordinates\obj\Debug\net6.0\RoomCoordinates.pdb
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_28\Challenges\RoomCoordinates\obj\Debug\net6.0\RoomCoordinates.genruntimeconfig.cache
+C:\Users\vinmar\Desktop\CSharp_Players_Guide\Fourth_Edition_With_DotNet_6\Level_28\Challenges\RoomCoordinates\obj\Debug\net6.0\ref\RoomCoordinates.dll
